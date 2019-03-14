@@ -7,3 +7,4 @@ The team at PUBG has made official game data available for the public to explore
 You are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings.
 
 Implemented using the LightGBM model on the Kaggle terminal.
+
